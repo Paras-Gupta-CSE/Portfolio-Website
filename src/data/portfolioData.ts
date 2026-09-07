@@ -7,7 +7,7 @@ export const PROFILE_DATA: ProfileInfo = {
   phone: '9376126755',
   email: '9parasgupta9@gmail.com',
   linkedin: 'Paras Gupta',
-  linkedinUrl: 'https://www.linkedin.com/in/paras-gupta',
+  linkedinUrl: 'https://www.linkedin.com/in/paras-gupta-94b086429/',
   location: 'Bangalore / New Delhi (Open to Remote Worldwide)',
   availability: 'Available for high-impact contracts & full-time technical leadership',
   yearsOfExperience: 6,
